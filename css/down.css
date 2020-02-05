@@ -1,0 +1,62 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: rgb(29, 122, 91);
+    z-index: 1;
+}
+
+formula
+{
+    float: left;
+    width: 98%;
+    margin: 0% 1% 0% 1%;
+    color: white;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.26);
+    border-radius: 0px 0px 0px 0px;
+    font-size: 2em;
+}
+#upform
+{
+    margin: 1.5% 0% 0% 1%;
+    border-radius: 10px 10px 0px 0px;
+    background-color: rgba(0, 0, 0, 0.397);
+}
+#downform
+{
+    border-radius: 0px 0px 10px 10px;
+}
+.bukva
+{
+    margin: 1% 0% 1% 1%;
+    border-radius: 7px;
+}
+.znak
+{
+    margin: 1% 0% 1% 1%;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    width: 60px;
+    border-radius: 7px;
+}
+kartinka_znaka
+{
+    background-color: white;
+    color: rgba(240, 248, 255, 0);
+    margin: 1% 0% 1% 1%;
+    float: left;
+    padding: 5%;
+    border-radius: 7px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+poiasnenia_znaka
+{
+    text-align: left;
+    float: right;
+    padding: 3%;
+    width: 78%
+}

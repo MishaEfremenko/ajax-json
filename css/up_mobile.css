@@ -1,0 +1,71 @@
+or_anim
+{
+    display: none;
+}
+.input_text
+{
+    border-radius: 10px;
+    clear: both;
+
+}
+#left
+{
+    float: left;
+    width: 98%;
+    clear: both;
+}
+yacheika
+{
+    float: left;
+    width: 98%;
+    text-align: center;
+    margin: 3px 5px 5px 5px;
+}
+yacheika>input
+{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    font-size: 0.8em;
+}
+find
+{
+    display: none;
+    font-size: 0.8em;
+    float: left;
+    width: 98%;
+    text-align: center;
+    margin: 5px 5px 5px 5px;
+    float: left;
+    background-color: rgb(0, 128, 11);
+    border-radius: 5px;
+    font-style: oblique;
+    border: 0;
+    cursor: pointer;
+    
+}
+up
+{
+    float: left;
+    width: 100%;
+    background-color: rgb(19, 160, 113);
+    border-bottom: 5px solid rgb(42, 77, 41);
+    padding: 0.3% 0 0.3% 0;
+    z-index: 1;
+    font-size: 5em;
+    font-family: sans-serif;
+}down
+{
+    width: 100%;
+    float: left;
+    z-index: 1;
+}
+varianti
+{
+    float: left;
+    width: 96%;
+    z-index: 3;
+    margin: 5% 2% 0% 2%;
+    position: relative;
+    margin-top: 0%;
+}
